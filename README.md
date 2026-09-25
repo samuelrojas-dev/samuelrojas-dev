@@ -1,4 +1,4 @@
-Hi, I'm Samuel 👋
+Hello, I'm Samuel 
 
 # I build software, and I care about keeping it secure.
 
