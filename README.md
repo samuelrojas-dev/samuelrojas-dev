@@ -1,26 +1,24 @@
-# Hola, soy Samuel Rojas 👋
+Hi, I'm Samuel 👋
 
-Desarrollador de software desde Cali, Colombia 🇨🇴, con interés en **seguridad de IA/LLMs** (prompt injection, seguridad de agentes) y en construir productos web que funcionen bien.
+# I build software, and I care about keeping it secure.
 
-## 🔭 En lo que estoy ahora
-- Construyendo proyectos prácticos con **Supabase** y aplicaciones web
-- Explorando la **seguridad en aplicaciones con IA** y agentes
-- Buscando mi próxima oportunidad como **desarrollador junior**
+I'm a developer who enjoys understanding how things work, and why they break. Lately I've been focused on one question: **how do we make AI-powered applications safe to build and safe to use?**
 
-## 🛠️ Tecnologías
-<!-- Edita esta lista con lo que realmente usas -->
+## What I'm working on
+- Building hands-on projects with **Supabase** to learn by shipping
+- Studying **AI security**: prompt injection, agent safety, and the failure modes that come with them
+- Looking for my first full-time role as a **junior software developer**
+
+## Tools I use
+<!-- Keep only what you actually use -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌱 Background
-- Formación previa en mercados de capitales, cadena de suministro y finanzas, lo que me da una visión de negocio además de la técnica
-- Español nativo · Inglés C1 (EF SET)
+## Background
+Before moving into software, I studied finance, capital markets, and supply chain management. That path taught me to think about the business problem behind the code, not just the code itself. I work comfortably in both English (C1) and Spanish.
 
-## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rojas-holguin-8492a6436/)
-
----
-⭐ Si algo de lo que hago te sirve, deja una estrella en mis repos.
+## Let's connect
+I'm always happy to talk about software, AI security, or opportunities. You can reach me on [LinkedIn](https://www.linkedin.com/in/samuel-rojas-holguin-8492a6436/).
