@@ -17,8 +17,8 @@ I build web applications and study how AI systems can be attacked and defended, 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Background
-I studied finance, capital markets, and supply chain management before moving into software. That background helps me connect technical decisions to business impact. English (C1) and Spanish.
+## Languages
+English (C1) and Spanish.
 
 > Build it well, then make it hard to break.
 
