@@ -6,7 +6,7 @@ I build mobile applications, and I study how AI systems can be attacked and defe
 
 ## Projects
 - **[dowbench](https://github.com/samuelrojas-dev/agent-cost-bench)**: a reproducible benchmark of denial-of-wallet attacks against tool-using LLM agents. Found a real 8.8x cost-amplification attack against Gemini and the one defense (out of five tested) that stops it — every result is replay-verified and reproducible from a published cassette, no API key needed.
-- **[agent-security-lab](https://github.com/samuelrojas-dev/agent-security-lab)**: a B2B sales agent built on Gemini and Supabase, evaluated against prompt-injection and information-disclosure attacks, with [N] adversarial test cases and an automated evaluator.
+- **[agent-security-lab](https://github.com/samuelrojas-dev/agent-security-lab)**: a B2B sales agent built on Gemini and Supabase, evaluated against prompt-injection and information-disclosure attacks, with 34 adversarial test cases and an automated evaluator.
 - **Checho**: an offline-first financial education app built with Flutter, with a CI pipeline on GitHub Actions.
 
 ## What I'm working on
