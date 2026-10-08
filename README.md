@@ -12,7 +12,7 @@ I build mobile applications, and I study how AI systems can be attacked and defe
 ## What I'm working on
 - Designing and running adversarial benchmarks against LLM agents: prompt injection, data leakage, denial-of-wallet, credential safety
 - Building with **Flutter**, **Supabase**, and **Python**
-- Looking for junior and semi-senior remote roles in software development, QA, and AI security
+- Looking for remote roles in software development, QA, and AI Agent security
 
 ## Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
