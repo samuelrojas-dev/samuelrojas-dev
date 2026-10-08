@@ -1,6 +1,6 @@
 # Hello, I'm Samuel
 
-**Flutter developer focused on AI security**
+**Developer focused on AI Agent security**
 
 I build mobile applications, and I study how AI systems can be attacked and defended. I design and run adversarial benchmarks against LLM agents — prompt injection, data leakage, and cost-based attacks — and I ship production-minded apps with Flutter and Supabase. I'm looking for a role where I can build real products and keep growing in AI security.
 
