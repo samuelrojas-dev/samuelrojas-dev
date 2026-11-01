@@ -15,7 +15,6 @@ I build open source security tools — from vulnerability triage to adversarial 
 ## What I'm working on
 - Building **depquiet**: vulnerability alert triage for DevSecOps teams — filtering noise from SCA scanners so developers fix what matters
 - Building **rogue-llm**: adversarial testing for LLM agents, MCP servers, and agentic frameworks
-- Active **bug bounty hunter** on HackerOne and Bugcrowd — web app pentesting, API security, IDOR/BOLA, authentication bypass
 - Building with **Flutter**, **Supabase**, and **Python**
 
 ## Tools
@@ -36,4 +35,3 @@ I build open source security tools — from vulnerability triage to adversarial 
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rojas-holguin-8492a6436/)
-[![PyPI](https://img.shields.io/badge/PyPI-depquiet-3775A9?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/depquiet/)
