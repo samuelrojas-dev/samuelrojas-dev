@@ -36,5 +36,4 @@ I build open source security tools — from vulnerability triage to adversarial 
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rojas-holguin-8492a6436/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/rojasrr56)
 [![PyPI](https://img.shields.io/badge/PyPI-depquiet-3775A9?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/depquiet/)
